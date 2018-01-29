@@ -5,3 +5,6 @@ This implementation is a simple implementation and does not possess features lik
 A block consists of information like, index, timestamp, data, and the value of previous hash.
 Each block is stored in a list starting from the Genesis Block (which is the first block in the blockchain). 
 I have used python's "HASHLIB" library for cryptographic encryption and decryption of the data. 
+
+
+Inspired by Savjee. (https://savjee.be/)
