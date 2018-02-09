@@ -23,4 +23,4 @@ Each block is stored in a list starting from the Genesis Block (which is the fir
 This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgement
-Inspired by Savjee. (https://savjee.be/)
+Inspired by [Savjee.] (https://savjee.be/)
