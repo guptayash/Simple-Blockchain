@@ -16,6 +16,9 @@ Each block is stored in a list starting from the Genesis Block (which is the fir
   * [HASHLIB](https://docs.python.org/2/library/hashlib.html)
   * [Datetime](https://docs.python.org/2/library/datetime.html)
 
+## Further Implementations
+ * Peer to peer connectivity
+ * Public-private key for each individual performing the transaction
 ## License
 This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
 
